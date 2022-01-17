@@ -1,5 +1,5 @@
 - #  👋 *Hi, I’m Aayush Kevadia '23*
-- ## 👀 ___I do not have any previous coding experince besides what I have read in some books___
+- ## 👀 ___Beginner Coder___
 - ### 🌱 ___I want to take this class to experience a new field and challenge mysel to new levels___
 - #### 💞️ Science and ***medicine*** is a field I am interested in; I hope to employ coding into that
 - ##### 📫 I hope to learn the fundamentals of code and become competent to apply code into everyday life
